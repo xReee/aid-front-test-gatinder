@@ -9,7 +9,7 @@ Devem ser utilizadas as seguintes tecnologias :
 Será um plus se você usar...
 * Typescript
 * Componentização
-* Qualquer tecnologia ou padrão complementar as citadas anteriormente são permitidas com as devidas justificativas no README.
+* Qualquer tecnologia ou padrão complementar às citadas anteriormente são permitidas com as devidas justificativas no README.
 
 # O desafio 
 ## Gatinder – Gatos chiques e bonitos
@@ -19,6 +19,7 @@ Criamos um concurso de gatos ficticia chamada GATINDER. Nele, as pessoas podem v
 
 ### Funcionalidades:
 #### Obrigatórias
+ - Seguir o layout fornecido
  - Listagem simples de todos os gatos
  - Um botão pra curtir e outro para descurtir as fotos
  - Adicionar e remover gatos favoritos
@@ -28,11 +29,10 @@ Criamos um concurso de gatos ficticia chamada GATINDER. Nele, as pessoas podem v
 #### Vai ser legal se você também fizer...
  - Side bar com dois menus
  - Listagem de favoritos
- - Adicionar gatinhos
- - Filtros
+ - Adição de gatinhos
+ - Todos os Filtros 
 
 Qualquer funcionalidade extra é bem vinda para agregar na solução básica proposta.
-A arquitetura é por sua conta.
 
 ### Layout
 [Link do figma](https://www.figma.com/file/0bSi4rv8ln107X5szwTdU1/Gatinder?node-id=702%3A24492)
@@ -46,16 +46,15 @@ A arquitetura é por sua conta.
 ### Adicionar um gatinho
 ![Adicionar um gatinho](https://user-images.githubusercontent.com/18575717/193035583-51e4183b-05be-475d-8fde-6868034d8f25.png)
 
-### Avaliação
+## Arquitetura da solução/O que fazer
+
+No arquivo README explique como executar o projeto e alguma outra informação que você julgar relevante.
+A maneira que você organiza os arquivos (arquitetura do sistema) é de sua escolha.
+
+## Avaliação
 Você será avaliado pela qualidade do código, pela modularidade, pela legibilidade, pela criatividade, pela quantidade de funcionalidades básicas e extra.
 
 Não esqueça da otimização de velocidade da App nem da experiência do usuário.
-
-# Arquitetura da solução/O que fazer
-
-No arquivo README do projeto explique como executar o projeto e alguma outra informação que você julgar relevante.
-
-## Avaliação
 
 Entre os critérios de avaliação estão:
 
