@@ -1,6 +1,20 @@
 # Venha fazer parte do Academy Inovative Development
 Que bom ver que você chegou tão longe! Essa é a penúltima (e mais importante) etapa do nosso processo! Estamos animados para ver suas habilidades em ação!
 
+Crie seu projeto de modo `PRIVATE` e adicione os seguintes usuários:
+- [Renata]() 
+- [Higor](https://github.com/higorbo)
+- [Marco](https://github.com/marcoafsantana)
+- [Márcio](https://github.com/MarcioDeAquino?tab=following)
+- [Marconi](https://github.com/MarconiGRF)
+- [Elton](https://github.com/eltonpontes)
+
+## Prazo
+- Inicia dia 30 de Setembro
+- Termina dia 06 de Outubro
+
+> **_NOTA:_** Envie o arquivo por email!!
+
 # Tecnologias/Padrões
 Devem ser utilizadas as seguintes tecnologias :
 * Vue.js
