@@ -2,7 +2,7 @@
 Que bom ver que você chegou tão longe! Essa é a penúltima (e mais importante) etapa do nosso processo! Estamos animados para ver suas habilidades em ação!
 
 Crie seu projeto de modo `PRIVATE` e adicione os seguintes usuários:
-- [Renata]() 
+- [Renata](https://github.com/xReee) 
 - [Higor](https://github.com/higorbo)
 - [Marco](https://github.com/marcoafsantana)
 - [Márcio](https://github.com/MarcioDeAquino?tab=following)
@@ -17,7 +17,7 @@ Crie seu projeto de modo `PRIVATE` e adicione os seguintes usuários:
 
 # Tecnologias/Padrões
 Devem ser utilizadas as seguintes tecnologias :
-* Vue.js
+* Vue.js (v2)
 * Testes (Que achar necessário) 
 
 Será um plus se você usar...
